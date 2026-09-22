@@ -172,48 +172,6 @@ TEAMWORK
 
 ---
 
-# 🎯 Currently Focused On
-
-```text
-[01] Web Application Security
-[02] Penetration Testing
-[03] Security Automation
-[04] SIEM & Detection
-[05] Cloud & Infrastructure Security
-[06] Continuous Cybersecurity Learning
-```
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=josan3&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josan3&layout=compact&hide_border=true&theme=github_dark" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josan3&bg_color=050505&color=00ff88&line=00ff88&point=e6edf3&area=true&hide_border=true&custom_title=Security%20Development%20Activity" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josan3/josan3/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josan3/josan3/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/josan3/josan3/output/github-snake-dark.svg">
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
@@ -224,16 +182,6 @@ $ echo "Learn. Build. Test. Secure."
 ### `Cybersecurity Engineer`
 
 **Pentesting · Web Security · Security Automation · SIEM**
-
-<br>
-
-<a href="https://www.linkedin.com/in/jos%C3%A9-antonio-montes-solano-ab514b37b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/josan3">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=00ff88"/>
-</a>
 
 </div>
 
