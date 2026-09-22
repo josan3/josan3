@@ -1,235 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a12,100:00ff88&height=220&section=header&text=JOSÉ%20ANTONIO&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20ENGINEER&descAlignY=58&descSize=18&descColor=e6edf3" width="100%"/>
+# José Antonio Montes
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;Web+Application+Security;Penetration+Testing;Security+Automation;SIEM+%26+Security+Monitoring" alt="Typing SVG"/>
-</a>
+### `Cybersecurity Engineer`
+
+**Pentesting · Web Security · Security Automation · SIEM**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=josan3&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" alt="Profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ff88?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/jos%C3%A9-antonio-montes-solano-ab514b37b/)
+[![GitHub](https://img.shields.io/badge/GitHub-josan3-161b22?style=for-the-badge\&logo=github\&logoColor=00ff88)](https://github.com/josan3)
 
 </div>
-
----
-
-```text
-┌──[josan3@github]─[~/cybersecurity]
-└─$ whoami
-
-José Antonio Montes
-Cybersecurity Engineer
-
-> Offensive Security
-> Security Automation
-> SIEM & Detection
-> Web Application Security
-```
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity Engineer** focused on developing practical security solutions and strengthening my expertise across both **offensive and defensive security**.
+I'm a **Cybersecurity Engineer** interested in both offensive and defensive security.
 
-My main interests include **web application security, penetration testing, security automation, vulnerability assessment and security monitoring**.
-
-I enjoy turning cybersecurity concepts into hands-on projects, automating repetitive tasks and continuously exploring new technologies.
+I build hands-on projects focused on **web security, penetration testing, security automation and security monitoring**, with a strong interest in turning security concepts into practical solutions.
 
 ```text
-[+] Security mindset
-[+] Hands-on projects
-[+] Continuous learning
-[+] Automation
-[+] Problem solving
+FOCUS
+─────
+Web Security       ████████████████████
+Pentesting         ██████████████████
+Automation         █████████████████
+SIEM / Detection   ████████████████
 ```
 
 ---
 
-## ⚔️ Cybersecurity Arsenal
+# ⚔️ Security Projects
 
-### 🔴 Offensive Security
+## 🔎 AnalizadorWeb
 
-`Web Pentesting` · `Reconnaissance` · `Vulnerability Assessment`
+**AI-assisted platform for automated web penetration testing.**
 
-### 🔵 Defensive Security
-
-`SIEM` · `Security Monitoring` · `Log Analysis` · `Detection`
-
-### 🟣 Security Engineering
-
-`Security Automation` · `Python` · `Linux` · `Networking`
-
-### 🟢 Development
-
-`Python` · `Java` · `JavaScript` · `C++`
-
----
-
-## 🚀 Featured Operations
-
-### 🔎 AnalizadorWeb
-
-> **AI-assisted automated web penetration testing platform**
-
-A project focused on automating and improving different stages of the web security assessment workflow.
-
-```text
-RECON ──► ANALYSIS ──► FINDINGS ──► RISK ──► REPORT
-```
-
-**Key capabilities**
-
-* 🔍 Reconnaissance & security analysis
-* 🤖 AI-assisted analysis
-* 📑 Automated evidence collection
-* 🧩 Finding normalization
-* ⚠️ Risk prioritization
-* 🐍 Python
-
-[→ Explore repository](https://github.com/josan3/AnalizadorWeb)
-
----
-
-### 🛡️ SIEM
-
-> **Security Information & Event Management**
-
-A security monitoring project focused on collecting, analysing and detecting relevant security events.
-
-```text
-LOGS ──► COLLECTION ──► ANALYSIS ──► DETECTION ──► ALERT
-```
-
-**Key capabilities**
-
-* 📥 Security event collection
-* 🔎 Log analysis
-* 🚨 Detection
-* 🐍 Python
-
-[→ Explore repository](https://github.com/josan3/SIEM)
-
----
-
-### 🏥 Nurse in the Pocket
-
-> **Healthcare management Progressive Web App**
-
-Bachelor's Thesis project focused on patient monitoring and healthcare management.
-
-**Technology**
-
-`React` · `PWA` · `Node.js` · `MySQL` · `Firebase` · `Jenkins` · `Postman`
-
-[→ Explore repository](https://github.com/josan3/Nurseinthepocket)
-
----
-
-### 🚁 Drones
-
-> **Java software development project**
-
-International software development project carried out in Germany.
-
-**Focus**
-
-`Java` · `Software Development` · `Teamwork` · `International Collaboration`
-
-[→ Explore repository](https://github.com/josan3/Drones)
-
----
-
-## 🧰 Technology Stack
-
-<div align="center">
-
-### Security
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git" />
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,mysql" />
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=firebase,jenkins,postman,github" />
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=josan3&show_icons=true&hide_border=true&rank_icon=github&title_color=00ff88&icon_color=00ff88&text_color=e6edf3&bg_color=050505" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josan3&layout=compact&hide_border=true&title_color=00ff88&text_color=e6edf3&bg_color=050505" height="170"/>
-
-</div>
-
----
-
-## 🧪 Current Focus
-
-```text
-┌─────────────────────────────────────────────┐
-│              CURRENT OBJECTIVES              │
-├─────────────────────────────────────────────┤
-│                                             │
-│  [01] Web Application Security              │
-│  [02] Penetration Testing                   │
-│  [03] Security Automation                   │
-│  [04] SIEM & Detection                      │
-│  [05] Cloud & Infrastructure Security       │
-│  [06] Continuous Cybersecurity Learning     │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 📈 Security Mindset
+A cybersecurity project designed to support different stages of the web security assessment workflow.
 
 ```text
 RECON
-  │
-  ▼
-ENUMERATION
-  │
-  ▼
+  ↓
 ANALYSIS
-  │
-  ▼
-EXPLOITATION
-  │
-  ▼
-VALIDATION
-  │
-  ▼
-REMEDIATION
+  ↓
+FINDINGS
+  ↓
+RISK
+  ↓
+REPORT
 ```
 
-> Learn. Build. Test. Secure.
+**Features**
+
+`Reconnaissance` · `Security Analysis` · `Evidence Collection`
+`Finding Normalization` · `Risk Prioritization` · `AI` · `Python`
+
+**→ [View Project](https://github.com/josan3/AnalizadorWeb)**
 
 ---
 
-## 🌐 Connect
+## 🛡️ SIEM
+
+**Security Information & Event Management project.**
+
+Focused on security event collection, log analysis and detection.
+
+```text
+LOGS
+  ↓
+COLLECTION
+  ↓
+ANALYSIS
+  ↓
+DETECTION
+  ↓
+ALERT
+```
+
+**Features**
+
+`Security Events` · `Log Analysis` · `Detection` · `Python`
+
+**→ [View Project](https://github.com/josan3/SIEM)**
+
+---
+
+# 💻 Tech Stack
+
+### 🔐 Cybersecurity
+
+`Pentesting` `Web Security` `Vulnerability Assessment`
+`SIEM` `Security Monitoring` `Security Automation`
+
+### 🧑‍💻 Programming
+
+`Python` `Java` `JavaScript` `C++`
+
+### 🖥️ Systems & Networking
+
+`Linux` `Networking` `Git`
+
+### 🌐 Development
+
+`React` `Node.js` `MySQL` `Firebase` `Jenkins` `Postman`
+
+---
+
+
+### 🏥 Nurse in the Pocket
+
+Progressive Web App developed as a Bachelor's Thesis for healthcare management and patient monitoring.
+
+`React` · `Node.js` · `MySQL` · `Firebase` · `Jenkins`
+
+**→ [View Project](https://github.com/josan3/Nurseinthepocket)**
+
+### 🚁 Drones
+
+Java software development project carried out during an international project in Germany.
+
+`Java` · `Software Development` · `Teamwork`
+
+**→ [View Project](https://github.com/josan3/Drones)**
+
+---
+
+
+# 📊 GitHub
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-antonio-montes-solano-ab514b37b/">
-<img src="https://img.shields.io/badge/LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=josan3&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" width="48%"/>
 
-<a href="https://github.com/josan3">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff88"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josan3&layout=compact&hide_border=true&theme=github_dark" width="40%"/>
 
 </div>
 
@@ -238,11 +141,9 @@ REMEDIATION
 <div align="center">
 
 ```text
-$ echo "Building. Breaking. Securing."
+$ echo "Learn. Build. Test. Secure."
 ```
 
-**Cybersecurity Engineer • Pentesting • Security Automation • SIEM**
+### `Cybersecurity Engineer | josan3`
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:071a12,100:050505&height=120&section=footer" width="100%"/>
